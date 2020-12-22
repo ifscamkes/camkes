@@ -1,3 +1,5 @@
+NOTE: We have taken this code directly from https://github.com/seL4/camkes-tool so that the readers can compare CAmkES 3.5.0 and IFS-CAmkES 1.0.
+
 <!--
      Copyright 2017, Data61
      Commonwealth Scientific and Industrial Research Organisation (CSIRO)
