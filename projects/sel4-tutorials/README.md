@@ -1,4 +1,4 @@
-NOTE: We have taken this code directly from https://github.com/seL4/camkes-tool so that the readers can compare CAmkES 3.5.0 and IFS-CAmkES 1.0.
+NOTE: We have taken this code directly from https://github.com/seL4/camkes-tool so that the readers can compare CAmkES with IFS-CAmkES, kSIFS-CAmkES, kIFS-CAmkES and static IFS-CAmkES.
 
 <!--
      Copyright 2017, Data61
